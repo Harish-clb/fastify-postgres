@@ -114,8 +114,16 @@ I have just kept GET endpoints, feel free to try out other CRUD operations and e
 
 ## Screenshots
 
-Here are some screenshots of the application:
+Here are some screenshots:
+
+**Screenshot 1: Docker Desktop**
 
 ![Docker-Desktop](/screenshots/docker-desktop.png)
+
+**Screenshot 2: API Documentation**
+
 ![Docs](/screenshots/docs.png)
+
+**Screenshot 3: Get all Jokes**
+
 ![Get all Jokes](/screenshots/jokes.png)
